@@ -1,0 +1,814 @@
+PATIENT_ID	START_DATE	STOP_DATE	EVENT_TYPE	TREATMENT_TYPE	NOTE	AGENT	SUBTYPE	COMMENTS
+TCGA-53-7624	339	490	TREATMENT	Medical Therapy	10-Drug_Day_of_Form_Completion: 31	PEMETREXED	chemotherapy	
+TCGA-39-5029	672	672	TREATMENT	Medical Therapy	10-Drug_Day_of_Form_Completion: 11	VINORELBINE TARTRATE	chemotherapy	
+TCGA-05-4384	61	153	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 5	VINORELBINE	chemotherapy	
+TCGA-05-4390	61	92	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 5	VINORELBINE	chemotherapy	
+TCGA-05-4398	0	92	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 5	ETOPOSIDE	chemotherapy	
+TCGA-05-4402	30	91	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 5	VINORELBINE	chemotherapy	
+TCGA-05-4427	61	122	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 5	VINORELBINE	chemotherapy	
+TCGA-05-4432	31	61	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 5	VINORELBINE	chemotherapy	
+TCGA-05-5428	62	153	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 5	VINORELBINE	chemotherapy	
+TCGA-38-4628	1147	1238	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 14	TAXOL	chemotherapy	
+TCGA-38-4632	1136	1169	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 13	CARBOPLATIN	chemotherapy	
+TCGA-38-6178	57	98	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 23	CARBOPLATIN	chemotherapy	
+TCGA-38-7271	329	371	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 10	CISPLATIN	chemotherapy	
+TCGA-44-2659	39	101	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 20	CISPLATIN	chemotherapy	
+TCGA-44-2662	277	362	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 21	TAXOL	chemotherapy	
+TCGA-44-2665	77	140	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 13	PEMETREXED DISODIUM	chemotherapy	
+TCGA-44-3396	129	192	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 22	CARBOPLATIN	chemotherapy	
+TCGA-44-3918	543	648	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 25	CARBOPLATIN	chemotherapy	
+TCGA-44-4112	78	142	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 11	CISPLATIN	chemotherapy	
+TCGA-44-5643	223	224	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 14	TARCEVA	chemotherapy	End date is NA
+TCGA-44-6146	44	107	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 7	ALIMTA	chemotherapy	
+TCGA-44-6774	91	154	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 3	ALIMTA	chemotherapy	
+TCGA-44-6779	391	435	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 12	GEMCITABINE	chemotherapy	
+TCGA-44-7669	117	180	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 13	CISPLATIN	chemotherapy	
+TCGA-44-7670	88	165	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 19	CISPLATIN	chemotherapy	
+TCGA-44-8117	113	133	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 13	DOCETAXEL	chemotherapy	
+TCGA-44-A47F	122	185	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 20	CISPLATIN	chemotherapy	
+TCGA-49-4507	174	175	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 6	GEMCITABINE	chemotherapy	End date is NA
+TCGA-49-6742	31	184	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 23	PEMETREXED	chemotherapy	
+TCGA-49-6743	48	140	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 23	BEVACIZUMAB	chemotherapy	
+TCGA-49-AAR4	57	61	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 17	CARBOPLATIN	chemotherapy	
+TCGA-50-5051	62	123	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 15	TAXOL	chemotherapy	
+TCGA-50-5066	508	567	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 15	TAXOL	chemotherapy	
+TCGA-50-5072	121	182	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 16	CARBOPLATIN	chemotherapy	
+TCGA-50-5933	189	210	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 17	TAXOL	chemotherapy	
+TCGA-50-6590	92	189	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 4	CARBOPLATIN	chemotherapy	
+TCGA-50-8459	76	147	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 26	CISPLATIN	chemotherapy	
+TCGA-53-7624	880	922	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 31	ERLOTINIB	chemotherapy	
+TCGA-53-A4EZ	132	226	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 7	NAVELBINE	chemotherapy	
+TCGA-55-6984	724	747	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 17	CHEMO, NOS	chemotherapy	
+TCGA-55-7914	27	132	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 30	ALIMTA	chemotherapy	
+TCGA-55-7994	56	121	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 28	TAXOL	chemotherapy	
+TCGA-55-A48X	66	150	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 30	ALIMTA	chemotherapy	
+TCGA-55-A48Y	91	163	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 30	ALIMTA	chemotherapy	
+TCGA-55-A48Z	58	202	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 30	ALIMTA	chemotherapy	
+TCGA-62-8394	54	124	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 21	GEMCITABINE	chemotherapy	
+TCGA-62-A46S	78	198	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 25	PLACEBO	targeted molecular therapy	
+TCGA-62-A46U	71	161	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 25	NAVELBINE	chemotherapy	
+TCGA-62-A46Y	74	256	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 25	NAVELBINE	chemotherapy	
+TCGA-62-A471	41	115	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 25	VINORELBINE	chemotherapy	
+TCGA-64-1677	51	121	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 18	CARBOPLATIN	chemotherapy	
+TCGA-64-1678	69	132	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 15	PACLITAXEL	chemotherapy	
+TCGA-64-1679	55	139	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 21	GEMCITABINE	chemotherapy	
+TCGA-64-5779	94	157	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 2	PEMETHEXED	chemotherapy	
+TCGA-64-5781	101	215	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 3	GEMCITABINE	chemotherapy	
+TCGA-64-5815	93	103	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 2	CARBOPLATIN	chemotherapy	
+TCGA-67-6215	85	148	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 12	ALIMTA	chemotherapy	
+TCGA-69-7760	47	110	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 2	PEMETREXED DISODIUM	chemotherapy	
+TCGA-69-7765	93	94	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 20	PEMETREXED	chemotherapy	End date is NA
+TCGA-69-7973	63	63	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 9	TAXOTERE	chemotherapy	
+TCGA-69-7974	33	96	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 9	PEMETREXED	chemotherapy	
+TCGA-69-8253	55	56	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 1	PEMETREXED	chemotherapy	End date is NA
+TCGA-69-A59K	72	135	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 18	PEMETREXED	chemotherapy	
+TCGA-73-4659	624	657	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 3	CYC-116/CYCLOCEL	other, specify	
+TCGA-73-4668	43	110	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 6	CARBOPLATIN	chemotherapy	
+TCGA-73-4670	54	110	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 15	ALMITA	chemotherapy	
+TCGA-73-4675	27	117	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 17	ALIMTA	chemotherapy	
+TCGA-73-4676	45	66	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 2	DOCETAXEL	chemotherapy	
+TCGA-73-7498	47	68	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 31	CISPLATIN	chemotherapy	
+TCGA-73-A9RS	130	186	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 17	PACLITAXEL	chemotherapy	
+TCGA-78-7145	28	161	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 23	CISPLATIN	chemotherapy	
+TCGA-78-7150	285	397	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 28	GEMCITABINE	chemotherapy	
+TCGA-78-7155	253	253	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 5	GEMCITABINE	chemotherapy	
+TCGA-78-7158	54	103	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 29	PACLITAXEL	chemotherapy	
+TCGA-78-7161	40	132	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 25	VINORELBINE	chemotherapy	
+TCGA-78-7535	60	124	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 19	VINBLASTINE	chemotherapy	
+TCGA-78-7539	36	49	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 19	VINORELBINE	chemotherapy	
+TCGA-86-6562	27	253	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 28	CISPLATIN	chemotherapy	
+TCGA-86-7701	27	207	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 31	CISPLATIN	chemotherapy	
+TCGA-86-7711	37	181	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 31	ETOPOSIDE	chemotherapy	
+TCGA-86-7713	29	182	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 27	CISPLATIN	chemotherapy	
+TCGA-86-7954	55	81	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 28	TAXOL	chemotherapy	
+TCGA-86-7955	27	274	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 12	CISPLATIN	chemotherapy	
+TCGA-86-8054	65	136	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 12	CISPLATIN	chemotherapy	
+TCGA-86-8075	201	364	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 25	CISPLATIN	chemotherapy	
+TCGA-86-8076	40	193	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 25	CISPLATIN	chemotherapy	
+TCGA-86-8278	29	156	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 25	CISPLATIN	chemotherapy	
+TCGA-86-8279	28	119	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 25	CISPLATIN	chemotherapy	
+TCGA-86-8280	16	129	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 2	ETOPOSIDE	chemotherapy	
+TCGA-86-8669	854	938	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 2	ETOPOSIDE	chemotherapy	
+TCGA-86-8671	18	104	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 2	ETOPOSIDE	chemotherapy	
+TCGA-86-8674	57	81	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 9	CISPLATIN	chemotherapy	
+TCGA-86-A4JF	444	536	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 6	NA	chemotherapy	
+TCGA-86-A4P8	43	106	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 11	ALIMTA	chemotherapy	
+TCGA-91-6848	91	154	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 28	DOCETAXEL	chemotherapy	
+TCGA-91-7771	77	156	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 6	PEMETREXED	chemotherapy	
+TCGA-93-A4JN	410	697	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 28	CARBOPLATIN	chemotherapy	
+TCGA-95-7562	60	81	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 26	ALIMTA	chemotherapy	
+TCGA-95-7567	89	149	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 6	DOCETAXEL	chemotherapy	
+TCGA-95-A4VK	76	121	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 21	ALIMTA	chemotherapy	
+TCGA-95-A4VP	63	126	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 22	TAXOL	chemotherapy	
+TCGA-97-7547	103	110	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 6	CISPLATIN	chemotherapy	
+TCGA-97-7554	49	111	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 21	CARBOPLATIN	chemotherapy	
+TCGA-97-8174	53	102	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 15	CISPLATINUM	chemotherapy	
+TCGA-97-8175	472	473	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 19	CISPLATIN	chemotherapy	End date is NA
+TCGA-97-8176	77	417	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 5	ALIMTA	chemotherapy	
+TCGA-97-8177	93	94	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 14	CARBOPLATIN	chemotherapy	End date is NA
+TCGA-97-8547	47	111	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 27	CARBOPLATIN	chemotherapy	
+TCGA-99-8033	78	78	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 18	ALIMTA	chemotherapy	
+TCGA-J2-8192	105	106	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 6	PEMETREXED	chemotherapy	End date is NA
+TCGA-J2-8194	72	73	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 6	ALIMTA	chemotherapy	End date is NA
+TCGA-L9-A7SV	41	104	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 7	PEMETREXED DISODIUM	chemotherapy	
+TCGA-MP-A4T8	42	72	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 15	CISPLATIN	chemotherapy	
+TCGA-MP-A4T9	34	55	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 15	CISPLATIN	chemotherapy	
+TCGA-MP-A4TC	25	25	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 18	NAVELBINE	chemotherapy	
+TCGA-MP-A4TD	75	165	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 18	GEMCITABINE	chemotherapy	
+TCGA-MP-A4TF	48	133	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 18	CISPLATIN	chemotherapy	
+TCGA-NJ-A7XG	100	128	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 25	CARBOPLATIN	chemotherapy	
+TCGA-18-3412	55	117	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 29	CISPLATIN	chemotherapy	
+TCGA-18-3415	95	95	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 7	CISPLATIN	chemotherapy	
+TCGA-18-3417	73	194	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 7	VINORELBINE	chemotherapy	
+TCGA-18-4083	102	175	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 29	VINORELBINE	chemotherapy	
+TCGA-22-4595	281	340	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 2	ALIMTA	chemotherapy	
+TCGA-22-5472	1221	1307	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 4	CARBOPLATIN	chemotherapy	
+TCGA-22-5479	37	119	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 27	TAXOL	chemotherapy	
+TCGA-22-5480	2036	2062	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 6	TARCEVA	chemotherapy	
+TCGA-22-5483	43	111	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 4	CISPLATIN	chemotherapy	
+TCGA-22-5489	776	855	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 11	TAXOTERE	chemotherapy	
+TCGA-33-6738	31	122	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 23	CISPLATIN	chemotherapy	
+TCGA-33-AASI	134	134	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 17	GEMCITABINE	chemotherapy	
+TCGA-34-2605	99	99	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 4	CISPLATIN	chemotherapy	
+TCGA-34-2609	660	856	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 4	NAVELBINE	chemotherapy	
+TCGA-34-5240	153	153	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 18	TAXOTERE	chemotherapy	
+TCGA-34-5927	292	385	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 20	TAXOL	chemotherapy	
+TCGA-34-8454	68	166	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 30	TAXOTERE	chemotherapy	
+TCGA-39-5011	728	742	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 4	TAXOTERE	chemotherapy	
+TCGA-39-5021	1902	2015	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 4	ETOPOSIDE	chemotherapy	
+TCGA-39-5024	49	112	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 6	CARBOPLATIN	chemotherapy	
+TCGA-39-5029	700	700	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 4	CARBOPLATIN	chemotherapy	
+TCGA-39-5037	49	63	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 6	CISPLATIN	chemotherapy	
+TCGA-43-2576	54	62	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 19	TAXOTERE	chemotherapy	
+TCGA-43-2581	112	175	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 19	ALIMTA	chemotherapy	
+TCGA-43-3394	154	222	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 20	GEMZAR	chemotherapy	
+TCGA-43-5668	83	446	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 27	REC MAGE3-AS+AS15 ASCI VS PLACEBO	vaccine	
+TCGA-43-6647	90	153	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 8	CARBOPLATIN	chemotherapy	
+TCGA-43-8115	102	165	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 30	PACLITAXEL	chemotherapy	
+TCGA-43-8118	82	82	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 2	CISPLATIN	chemotherapy	
+TCGA-43-A474	101	172	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 23	TAXOTERE	chemotherapy	
+TCGA-43-A475	109	172	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 26	TAXOTERE	chemotherapy	
+TCGA-43-A56V	47	111	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 4	TAXOTERE	chemotherapy	
+TCGA-46-6025	77	98	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 13	GEMZAR	chemotherapy	
+TCGA-46-6026	63	98	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 13	PARAPLATIN	chemotherapy	
+TCGA-51-4081	51	122	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 19	VINORELBINE	chemotherapy	
+TCGA-56-7823	129	197	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 29	GEMCITABINE	chemotherapy	
+TCGA-56-8308	57	203	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 8	CARBOPLATIN	chemotherapy	
+TCGA-56-8625	162	217	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 30	CARBOPLATIN	chemotherapy	
+TCGA-56-8629	66	148	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 28	GEMCITABINE	chemotherapy	
+TCGA-56-A4BW	30	109	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 3	TAXOL	chemotherapy	
+TCGA-56-A62T	45	80	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 21	PACLITAXEL	chemotherapy	
+TCGA-58-8387	22	129	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 15	NAVELBINE	chemotherapy	
+TCGA-58-8391	42	159	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 15	GEMCITABINE	chemotherapy	
+TCGA-58-A46J	56	134	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 15	NAVELBINE	chemotherapy	
+TCGA-58-A46K	85	171	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 15	NAVELBINE	chemotherapy	
+TCGA-58-A46L	67	265	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 15	DOCETAXEL	chemotherapy	
+TCGA-60-2708	151	231	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 16	GEMCITABINE	chemotherapy	
+TCGA-60-2710	15	57	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 16	PREMETREXED	chemotherapy	
+TCGA-60-2713	1611	1731	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 16	CISPLATIN	chemotherapy	
+TCGA-60-2714	13	75	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 16	CARBOPLATIN	chemotherapy	
+TCGA-60-2715	448	511	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 9	CISPLATIN	chemotherapy	
+TCGA-60-2716	68	112	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 17	TAXOL	chemotherapy	
+TCGA-60-2722	110	258	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 17	TAXOL	chemotherapy	
+TCGA-60-2724	111	112	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 20	CISPLATIN	chemotherapy	End date is NA
+TCGA-63-A5MB	85	205	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 24	VINORELBINE	chemotherapy	
+TCGA-63-A5MI	56	141	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 24	CISPLATIN	chemotherapy	
+TCGA-63-A5MJ	67	132	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 24	CISPLATIN	chemotherapy	
+TCGA-63-A5ML	84	189	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 24	CISPLATIN	chemotherapy	
+TCGA-63-A5MM	30	58	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 25	CISPLATIN	chemotherapy	
+TCGA-63-A5MP	134	210	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 24	VINORELBINE TARTRATE	chemotherapy	
+TCGA-63-A5MT	124	194	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 24	VINORELBINE TARTRATE	chemotherapy	
+TCGA-63-A5MU	105	203	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 25	VINORELBIN TARTRATE	chemotherapy	
+TCGA-63-A5MV	91	161	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 25	VINORELBINE TARTRATE	chemotherapy	
+TCGA-66-2757	943	943	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 5	CARBOPLATIN	chemotherapy	
+TCGA-66-2758	89	181	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 5	VINORELBINE	chemotherapy	
+TCGA-66-2759	92	214	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 5	VINORELBINE	chemotherapy	
+TCGA-66-2771	61	153	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 5	VINORELBINE	chemotherapy	
+TCGA-66-2778	184	244	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 5	VINORELBINE	chemotherapy	
+TCGA-66-2783	90	151	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 5	VINORELBINE	chemotherapy	
+TCGA-66-2792	91	214	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 5	VINORELBINE	chemotherapy	
+TCGA-68-8251	54	55	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 24	TAXOL	chemotherapy	End date is NA
+TCGA-85-6560	19	146	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 28	DOCETAXEL	chemotherapy	
+TCGA-85-6561	27	141	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 28	ETOPOSIDE	chemotherapy	
+TCGA-85-6798	20	111	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 30	CISPLATIN	chemotherapy	
+TCGA-85-8276	17	144	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 15	ETOPOSIDE	chemotherapy	
+TCGA-85-8351	22	139	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 2	ETOPOSIDE	chemotherapy	
+TCGA-85-A50Z	35	42	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 8	CISPLATIN	chemotherapy	
+TCGA-90-6837	148	176	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 31	TAXOTERE	chemotherapy	
+TCGA-90-A4EE	121	184	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 4	DOCETAXEL	chemotherapy	
+TCGA-92-8063	52	94	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 18	CARBOPLATIN	chemotherapy	
+TCGA-92-8064	106	190	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 4	NAVELBINE	chemotherapy	
+TCGA-94-7033	59	87	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: NA	TAXOTERE	chemotherapy	
+TCGA-94-A5I6	122	164	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 8	TAXOTERE	chemotherapy	
+TCGA-96-A4JK	47	139	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 7	CISPLATIN	chemotherapy	
+TCGA-96-A4JL	52	136	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 7	CARBOPLATIN	chemotherapy	
+TCGA-98-A53I	47	110	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 23	CISPLATIN	chemotherapy	
+TCGA-J1-A4AH	68	131	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 27	GEMCITABINE	chemotherapy	
+TCGA-L3-A524	197	350	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 22	GEMCITABINE	chemotherapy	
+TCGA-LA-A7SW	65	65	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 8	TAXOTERE	chemotherapy	
+TCGA-60-2697	14	47	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 19	CYTOXAN	chemotherapy	
+TCGA-60-2704	1073	1093	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 6	TAXOTERE	chemotherapy	
+TCGA-33-4587	63	63	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 2	ETOPOSIDE (VP-16)	chemotherapy	
+TCGA-39-5040	448	476	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 5	VINORELBINE	chemotherapy	
+TCGA-43-5670	87	164	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 27	CISPLATIN	chemotherapy	
+TCGA-56-7579	88	136	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 29	TAXOL	chemotherapy	
+TCGA-85-7697	18	134	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 1	ETOPOSIDE	chemotherapy	
+TCGA-85-7698	654	738	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 1	CISPLATIN	chemotherapy	
+TCGA-85-7699	19	112	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 1	ETOPOSIDE	chemotherapy	
+TCGA-52-7812	656	797	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 31	ERLOTINIB	chemotherapy	
+TCGA-MF-A522	62	125	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 7	CISPLATIN	chemotherapy	
+TCGA-NC-A5HE	51	142	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 16	NAVELBINE	chemotherapy	
+TCGA-NC-A5HG	37	107	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 17	NAVELBINE	chemotherapy	
+TCGA-NC-A5HI	91	169	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 17	NAVELBINE	chemotherapy	
+TCGA-NC-A5HJ	411	412	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 17	ALIMTA	chemotherapy	
+TCGA-NC-A5HK	37	128	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 17	NAVELBINE	chemotherapy	
+TCGA-NC-A5HO	45	108	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 17	NAVELBINE	chemotherapy	
+TCGA-NC-A5HP	52	113	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 17	NAVELBINE	chemotherapy	
+TCGA-NC-A5HQ	57	133	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 17	NAVELBINE	chemotherapy	
+TCGA-NC-A5HR	49	138	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 19	NAVELBINE	chemotherapy	
+TCGA-NC-A5HT	246	288	TREATMENT	Medical Therapy	2-Drug_Day_of_Form_Completion: 19	PACLITAXEL	chemotherapy	
+TCGA-05-4384	395	426	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 5	CISPLATIN	chemotherapy	
+TCGA-05-4402	122	122	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 5	ERLOTINIB	immunotherapy	
+TCGA-38-4632	1127	1169	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 14	CPT-11	chemotherapy	
+TCGA-38-7271	574	623	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 10	ALIMTA	chemotherapy	
+TCGA-44-2662	277	362	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 21	CARBOPLATIN	chemotherapy	
+TCGA-44-2665	77	308	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 13	BEVACIZUMAB	targeted molecular therapy	
+TCGA-44-5643	131	208	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 14	CARBOPLATIN	chemotherapy	
+TCGA-44-6146	66	107	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 7	CARBOPLATIN	chemotherapy	
+TCGA-44-6774	91	112	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 3	CISPLATIN	chemotherapy	
+TCGA-44-6779	77	141	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 12	CARBOPLATIN	chemotherapy	
+TCGA-44-7669	117	180	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 13	ALIMTA	chemotherapy	
+TCGA-49-6742	31	184	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 23	CISPLATIN	chemotherapy	
+TCGA-49-6743	48	140	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 23	PEMETREXED	chemotherapy	
+TCGA-50-5066	508	567	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 15	AVASTIN	chemotherapy	
+TCGA-50-5072	121	182	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 16	TAXOL	chemotherapy	
+TCGA-50-8459	76	147	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 26	AVASTIN	chemotherapy	
+TCGA-53-7624	980	980	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 31	ABRAXANE	chemotherapy	
+TCGA-55-7914	27	132	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 30	AVASTIN	chemotherapy	
+TCGA-62-A471	41	115	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 25	GEMCITABINE	chemotherapy	
+TCGA-64-5779	94	157	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 3	CISPLATIN	chemotherapy	
+TCGA-64-5781	131	215	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 3	CISPLATIN	chemotherapy	
+TCGA-64-5815	146	188	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 2	ALIMTA	chemotherapy	
+TCGA-69-7973	91	132	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 9	CISPLATIN	chemotherapy	
+TCGA-69-7974	75	96	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 9	CARBOPLATIN	chemotherapy	
+TCGA-73-4659	546	581	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 3	CISPLATIN	chemotherapy	
+TCGA-73-4668	43	110	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 6	PREMETREXED	chemotherapy	
+TCGA-73-4670	33	110	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 15	CARBOPLATIN	chemotherapy	
+TCGA-73-4675	27	104	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 17	CISPLATIN	chemotherapy	
+TCGA-73-4676	45	66	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 2	CISPLATIN	chemotherapy	
+TCGA-73-7498	68	110	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 31	CARBOPLATIN	chemotherapy	
+TCGA-73-A9RS	130	186	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 17	BEVACIZUMAB	immunotherapy	
+TCGA-78-7145	605	685	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 23	GEFITINIB	targeted molecular therapy	
+TCGA-78-7150	607	642	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 28	PACLITAXEL	chemotherapy	
+TCGA-78-7539	70	133	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 19	CARBOPLATIN	chemotherapy	
+TCGA-86-7701	454	601	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 9	NA	chemotherapy	
+TCGA-86-7955	823	922	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 12	GEMCITABINE	chemotherapy	
+TCGA-86-8075	388	389	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 25	GEFITINIB	targeted molecular therapy	End date is NA
+TCGA-86-8278	178	179	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 25	GEFITINIB	targeted molecular therapy	End date is NA
+TCGA-97-7547	824	866	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 6	ALIMTA	chemotherapy	
+TCGA-97-8176	77	417	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 5	B12	ancillary	
+TCGA-97-8177	205	206	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 19	TARCEVA	targeted molecular therapy	End date is NA
+TCGA-97-8547	124	125	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 27	TARCEVA	NA	End date is NA
+TCGA-99-8033	107	108	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 18	TAXOL	chemotherapy	End date is NA
+TCGA-J2-8192	641	642	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 16	ERLOTINIB	chemotherapy	End date is NA
+TCGA-J2-8194	546	584	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 7	CARBOPLATIN	chemotherapy	
+TCGA-MP-A4T9	62	62	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 15	GEMCITABINE	chemotherapy	
+TCGA-NJ-A7XG	30	128	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 25	PEMETREXED	chemotherapy	
+TCGA-18-3412	287	301	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 29	TARCEVA/ERLOTINIB	NA	
+TCGA-18-3415	130	172	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 7	CARBOPLATIN	NA	
+TCGA-22-4595	341	401	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 9	TAXOL	chemotherapy	
+TCGA-22-5472	915	986	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 4	CARBOPLATIN	chemotherapy	
+TCGA-22-5480	1833	1937	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 6	GEMZAR	chemotherapy	
+TCGA-22-5489	855	855	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 4	CARBOPLATIN	chemotherapy	
+TCGA-34-2609	107	177	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 4	GEMCITABINE	chemotherapy	
+TCGA-39-5011	580	621	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 4	TAXOL	chemotherapy	
+TCGA-39-5029	700	707	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 4	PACLITAXEL	chemotherapy	
+TCGA-43-2576	69	182	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 19	NAVELBINE	chemotherapy	
+TCGA-43-3394	574	581	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 10	TAXOTERE	chemotherapy	
+TCGA-43-5668	481	551	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 27	GEMZAR	chemotherapy	
+TCGA-46-6026	147	168	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 13	PARAPLATIN	chemotherapy	
+TCGA-56-8625	140	217	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 30	GEMZAR	chemotherapy	
+TCGA-60-2710	15	57	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 16	CISPLATIN	chemotherapy	
+TCGA-60-2714	184	217	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 16	CISPLATIN	chemotherapy	
+TCGA-60-2715	448	511	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 9	DOCETAXEL	chemotherapy	
+TCGA-60-2716	129	150	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 17	TAXOTERE	chemotherapy	
+TCGA-63-A5MI	182	945	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 24	NA	vaccine	
+TCGA-63-A5MJ	153	153	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 24	CARBOPLATIN	chemotherapy	
+TCGA-66-2757	1277	1277	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 5	VINORELBINE	chemotherapy	
+TCGA-85-6561	27	141	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 28	CISPLATIN	chemotherapy	
+TCGA-85-8276	1050	1051	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 15	ZOLEDRONIC ACID	ancillary	End date is NA
+TCGA-90-6837	176	197	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 31	CISPLATIN	chemotherapy	
+TCGA-60-2697	14	47	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 19	DOXORUBICIN	chemotherapy	
+TCGA-33-4587	93	93	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 8	CARBOPLATIN	chemotherapy	
+TCGA-39-5040	24	24	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 5	CISPLATIN	chemotherapy	
+TCGA-56-7579	165	215	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 29	GEMZAR	chemotherapy	
+TCGA-85-7699	761	892	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 15	DOCETAXEL	chemotherapy	
+TCGA-MF-A522	62	125	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 7	TAXOTERE	chemotherapy	
+TCGA-NC-A5HP	358	448	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 17	DOCETAXEL	chemotherapy	
+TCGA-NC-A5HT	578	677	TREATMENT	Medical Therapy	3-Drug_Day_of_Form_Completion: 15	CARBOPLATIN	chemotherapy	
+TCGA-05-4384	245	426	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 5	ZOLEDRONIC ACID	ancillary	
+TCGA-38-4632	679	802	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 14	PACLITAXEL	chemotherapy	
+TCGA-44-6779	257	303	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 12	TAXOTERE	chemotherapy	
+TCGA-44-7669	539	539	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 13	CARBOPLATIN	chemotherapy	
+TCGA-49-6742	335	396	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 26	MDX-1106 CLINICAL TRIAL	immunotherapy	
+TCGA-53-7624	803	861	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 31	DOCETAXEL	chemotherapy	
+TCGA-64-5779	94	157	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 3	PEMETREXED	chemotherapy	
+TCGA-64-5781	131	215	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 3	GEMCITABINE	chemotherapy	
+TCGA-64-5815	146	188	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 2	CARBOPLATIN	chemotherapy	
+TCGA-69-7973	91	132	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 9	PEMETREXED	chemotherapy	
+TCGA-73-4659	312	406	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 3	ERLOTONIB	targeted molecular therapy	
+TCGA-73-4668	369	370	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 6	GEMCITABINE	chemotherapy	End date is NA
+TCGA-73-4670	33	54	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 15	TAXOL	chemotherapy	
+TCGA-73-4675	459	483	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 17	CARBOPLATIN	chemotherapy	
+TCGA-73-4676	-74	-40	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 2	DOCETAXEL	chemotherapy	
+TCGA-73-7498	47	131	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 20	PEMETREXED	chemotherapy	
+TCGA-73-A9RS	200	242	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 17	PEMETREXED	chemotherapy	
+TCGA-78-7145	440	547	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 23	DOCETAXEL	chemotherapy	
+TCGA-78-7539	70	133	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 19	PACLITAXEL	chemotherapy	
+TCGA-86-7701	454	601	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 9	DOCETAXEL	chemotherapy	
+TCGA-86-7955	823	922	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 12	CISPLATIN	chemotherapy	
+TCGA-97-7547	96	124	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 6	VINORELBINE	chemotherapy	
+TCGA-97-8176	77	417	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 3	NEULASTA	ancillary	
+TCGA-J2-8194	546	584	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 7	GEMCITABINE	chemotherapy	
+TCGA-22-4595	675	724	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 9	IRESSA	chemotherapy	
+TCGA-22-5472	1440	1594	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 4	VP-16	chemotherapy	
+TCGA-22-5489	776	855	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 4	GEMCITABINE	chemotherapy	
+TCGA-34-2609	464	569	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 4	ALIMTA	chemotherapy	
+TCGA-39-5011	677	677	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 13	TAXOTERE	chemotherapy	
+TCGA-39-5029	707	707	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 4	CETUXIMAB	chemotherapy	
+TCGA-43-3394	588	616	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 10	ABRAXANE	chemotherapy	
+TCGA-46-6026	63	98	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 13	TAXOL	chemotherapy	
+TCGA-60-2710	148	155	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 16	ALIMTA	chemotherapy	
+TCGA-60-2715	773	794	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 9	NAVELBINE	chemotherapy	
+TCGA-85-6561	27	141	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 28	VINORELBINE	chemotherapy	
+TCGA-90-6837	176	197	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 31	GEMCITABINE	chemotherapy	
+TCGA-60-2697	14	47	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 19	VINCRISTINE	chemotherapy	
+TCGA-33-4587	93	154	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 8	CYTOXAN	chemotherapy	
+TCGA-39-5040	448	476	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 5	GEMCITABINE	chemotherapy	
+TCGA-56-7579	349	471	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 29	TARCEVA	chemotherapy	
+TCGA-85-7699	761	892	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 15	ZOLEDRONIC ACID	chemotherapy	
+TCGA-NC-A5HP	540	632	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 17	GEMZAR	chemotherapy	
+TCGA-NC-A5HT	578	677	TREATMENT	Medical Therapy	4-Drug_Day_of_Form_Completion: 15	GEMCITABINE	chemotherapy	
+TCGA-53-7624	726	782	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 31	GEMCITABINE	chemotherapy	
+TCGA-64-5781	159	187	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 3	BEVACIZUMAB	chemotherapy	
+TCGA-64-5815	83	132	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 3	GEMCITABINE	chemotherapy	
+TCGA-73-4659	602	609	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 3	TAXOL	chemotherapy	
+TCGA-73-4675	459	483	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 17	TAXOTERE	chemotherapy	
+TCGA-73-7498	47	131	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 20	CISPLATIN	chemotherapy	
+TCGA-73-A9RS	242	284	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 17	DOCETAXEL	chemotherapy	
+TCGA-78-7145	28	161	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 5	GEMCITABINE	chemotherapy	
+TCGA-86-7701	454	601	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 9	ZOLEDRONIC ACID	ancillary	
+TCGA-97-7547	33	89	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 6	VINORELBINE	chemotherapy	
+TCGA-97-8176	77	417	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 3	XGEVA	ancillary	
+TCGA-J2-8194	597	640	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 7	DOXETAXOL	chemotherapy	
+TCGA-22-4595	341	401	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 4	CARBOPLATIN	chemotherapy	
+TCGA-22-5472	1778	1929	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 4	CAV TRIAL	chemotherapy	
+TCGA-34-2609	905	912	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 4	TAXOTERE	chemotherapy	
+TCGA-39-5029	140	211	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 11	CISPLATIN	chemotherapy	
+TCGA-60-2715	903	955	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 9	TL32711	chemotherapy	
+TCGA-60-2697	14	47	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 19	CCNU	chemotherapy	
+TCGA-33-4587	93	154	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 8	VINCRISTINE	chemotherapy	
+TCGA-39-5040	49	92	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 5	CARBOPLATIN	chemotherapy	
+TCGA-56-7579	349	471	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 29	TAXOTERE	chemotherapy	
+TCGA-NC-A5HP	632	633	TREATMENT	Medical Therapy	5-Drug_Day_of_Form_Completion: 17	NAVELBINE	chemotherapy	End date is NA
+TCGA-53-7624	66	186	TREATMENT	Medical Therapy	6-Drug_Day_of_Form_Completion: 31	CISPLATIN	chemotherapy	
+TCGA-64-5815	83	132	TREATMENT	Medical Therapy	6-Drug_Day_of_Form_Completion: 3	CARBOPLATIN	chemotherapy	
+TCGA-73-4659	257	298	TREATMENT	Medical Therapy	6-Drug_Day_of_Form_Completion: 3	ALIMTA	chemotherapy	
+TCGA-73-4675	459	483	TREATMENT	Medical Therapy	6-Drug_Day_of_Form_Completion: 17	AVASTIN	chemotherapy	
+TCGA-73-A9RS	284	285	TREATMENT	Medical Therapy	6-Drug_Day_of_Form_Completion: 17	GEMCITABINE	chemotherapy	End date is NA
+TCGA-86-7701	706	707	TREATMENT	Medical Therapy	6-Drug_Day_of_Form_Completion: 9	ZOLEDRONIC ACID	ancillary	End date is NA
+TCGA-J2-8194	663	664	TREATMENT	Medical Therapy	6-Drug_Day_of_Form_Completion: 7	ERLOTINIB	targeted molecular therapy	End date is NA
+TCGA-22-4595	281	340	TREATMENT	Medical Therapy	6-Drug_Day_of_Form_Completion: 4	GEMCITABINE	chemotherapy	
+TCGA-22-5472	915	986	TREATMENT	Medical Therapy	6-Drug_Day_of_Form_Completion: 12	ETOPOSIDE	chemotherapy	
+TCGA-39-5029	140	211	TREATMENT	Medical Therapy	6-Drug_Day_of_Form_Completion: 11	DOCETAXEL	chemotherapy	
+TCGA-60-2715	643	766	TREATMENT	Medical Therapy	6-Drug_Day_of_Form_Completion: 9	TARCEVA	targeted molecular therapy	
+TCGA-60-2697	349	351	TREATMENT	Medical Therapy	6-Drug_Day_of_Form_Completion: 19	ETOPOSIDE	chemotherapy	
+TCGA-33-4587	63	63	TREATMENT	Medical Therapy	6-Drug_Day_of_Form_Completion: 8	CARBOPLATIN	chemotherapy	
+TCGA-39-5040	49	92	TREATMENT	Medical Therapy	6-Drug_Day_of_Form_Completion: 5	PACLITAXEL	chemotherapy	
+TCGA-56-7579	585	710	TREATMENT	Medical Therapy	6-Drug_Day_of_Form_Completion: 29	MK2206	NA	
+TCGA-53-7624	66	186	TREATMENT	Medical Therapy	7-Drug_Day_of_Form_Completion: 31	VINORELBINE	chemotherapy	
+TCGA-64-5815	146	195	TREATMENT	Medical Therapy	7-Drug_Day_of_Form_Completion: 3	CARBOPLATIN	chemotherapy	
+TCGA-73-4659	473	494	TREATMENT	Medical Therapy	7-Drug_Day_of_Form_Completion: 3	DOCETOXEL/TAXOTERE	chemotherapy	
+TCGA-73-4675	592	676	TREATMENT	Medical Therapy	7-Drug_Day_of_Form_Completion: 17	TARCEVA	chemotherapy	
+TCGA-86-7701	936	937	TREATMENT	Medical Therapy	7-Drug_Day_of_Form_Completion: 9	GEMCITABINE	chemotherapy	End date is NA
+TCGA-22-4595	609	637	TREATMENT	Medical Therapy	7-Drug_Day_of_Form_Completion: 4	CARBOPLATIN	chemotherapy	
+TCGA-22-5472	1594	1778	TREATMENT	Medical Therapy	7-Drug_Day_of_Form_Completion: 12	IRINOTECAN	chemotherapy	
+TCGA-39-5029	514	535	TREATMENT	Medical Therapy	7-Drug_Day_of_Form_Completion: 11	PEMETSEXED	chemotherapy	
+TCGA-60-2715	546	633	TREATMENT	Medical Therapy	7-Drug_Day_of_Form_Completion: 9	CARBOPLATIN	chemotherapy	
+TCGA-60-2697	349	351	TREATMENT	Medical Therapy	7-Drug_Day_of_Form_Completion: 19	CARBOPLATINUM	chemotherapy	
+TCGA-33-4587	93	93	TREATMENT	Medical Therapy	7-Drug_Day_of_Form_Completion: 8	TOPOTECAN	chemotherapy	
+TCGA-39-5040	448	476	TREATMENT	Medical Therapy	7-Drug_Day_of_Form_Completion: 5	CETUXIMAB	chemotherapy	
+TCGA-56-7579	724	725	TREATMENT	Medical Therapy	7-Drug_Day_of_Form_Completion: 29	VINORELBINE	chemotherapy	End date is NA
+TCGA-53-7624	339	490	TREATMENT	Medical Therapy	8-Drug_Day_of_Form_Completion: 31	CARBOPLATINUM	chemotherapy	
+TCGA-64-5815	146	195	TREATMENT	Medical Therapy	8-Drug_Day_of_Form_Completion: 3	ALMITA	chemotherapy	
+TCGA-73-4659	410	452	TREATMENT	Medical Therapy	8-Drug_Day_of_Form_Completion: 3	VINORELBINE	chemotherapy	
+TCGA-86-7701	936	937	TREATMENT	Medical Therapy	8-Drug_Day_of_Form_Completion: 9	DOCETAXEL	chemotherapy	End date is NA
+TCGA-22-4595	675	724	TREATMENT	Medical Therapy	8-Drug_Day_of_Form_Completion: 4	RAS INHIBITOR	chemotherapy	
+TCGA-22-5472	1221	1307	TREATMENT	Medical Therapy	8-Drug_Day_of_Form_Completion: 12	IRONOTECAN	chemotherapy	
+TCGA-39-5029	672	672	TREATMENT	Medical Therapy	8-Drug_Day_of_Form_Completion: 11	GEMCITABINE	chemotherapy	
+TCGA-53-7624	339	490	TREATMENT	Medical Therapy	9-Drug_Day_of_Form_Completion: 31	BEVACIZUMAB	chemotherapy	
+TCGA-39-5029	645	658	TREATMENT	Medical Therapy	9-Drug_Day_of_Form_Completion: 11	GEMCITABINE	chemotherapy	
+TCGA-05-4384	61	153	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	CISPLATIN	chemotherapy	
+TCGA-05-4390	61	92	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	CISPLATIN	chemotherapy	
+TCGA-05-4398	0	92	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	CARBOPLATIN	chemotherapy	
+TCGA-05-4402	30	91	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	CARBOPLATIN	chemotherapy	
+TCGA-05-4424	699	700	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	ERLOTINIB	immunotherapy	End date is NA
+TCGA-05-4427	61	122	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	CISPLATIN	chemotherapy	
+TCGA-05-4432	31	61	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	CISPLATIN	chemotherapy	
+TCGA-05-5428	62	153	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 30	CISPLATIN	chemotherapy	
+TCGA-38-4628	1147	1238	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 9	CARBOPLATIN	chemotherapy	
+TCGA-38-4632	679	802	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 13	GEMCITABINE	chemotherapy	
+TCGA-38-6178	57	98	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 23	TAXOL	chemotherapy	
+TCGA-38-7271	574	574	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 10	CARBOPLATIN	chemotherapy	
+TCGA-44-2659	39	101	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 20	ALIMTA	chemotherapy	
+TCGA-44-2662	76	162	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 21	REC MAGE 3-AS + AS15 ACS1 / PLACEBO VACCINE	other, specify	
+TCGA-44-2665	77	140	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 13	CISPLATIN	chemotherapy	
+TCGA-44-3396	129	192	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 22	ALIMTA	chemotherapy	
+TCGA-44-3918	543	648	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 25	ALIMTA	chemotherapy	
+TCGA-44-4112	78	142	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 11	ALIMTA	chemotherapy	
+TCGA-44-5643	131	208	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 14	TAXOL	chemotherapy	
+TCGA-44-6146	44	44	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 7	CISPLATIN	chemotherapy	
+TCGA-44-6774	133	154	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 3	CARBOPLATIN	chemotherapy	
+TCGA-44-6779	77	141	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 12	TAXOL	chemotherapy	
+TCGA-44-7660	78	141	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 24	RECPRAME+AS15 ASCI	vaccine	
+TCGA-44-7669	539	539	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 13	GEMZAR	chemotherapy	
+TCGA-44-7670	88	165	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 19	DOCETAXEL	chemotherapy	
+TCGA-44-8117	113	176	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 13	CISPLATIN	chemotherapy	
+TCGA-44-A47F	122	185	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 20	ALIMTA	chemotherapy	
+TCGA-49-4507	47	110	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 2	TAXOL	chemotherapy	
+TCGA-49-6742	31	184	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 9	ALIMTA	chemotherapy	
+TCGA-49-6743	18	140	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 10	CISPLATIN	chemotherapy	
+TCGA-49-6744	16	108	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 23	NA	chemotherapy	
+TCGA-49-AAR4	57	61	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 17	TAXOL	chemotherapy	
+TCGA-50-5051	62	123	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 15	CARBOPLATIN	chemotherapy	
+TCGA-50-5066	508	567	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 15	CARBOPLATIN	chemotherapy	
+TCGA-50-5068	99	140	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 16	TAXOL	chemotherapy	
+TCGA-50-5072	22	68	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 23	TAXOTERE	chemotherapy	
+TCGA-50-5930	85	146	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 16	TAXOTERE	chemotherapy	
+TCGA-50-5933	189	210	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 17	CARBOPLATIN	chemotherapy	
+TCGA-50-6590	92	189	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 4	PACLITAXEL	chemotherapy	
+TCGA-50-6595	123	162	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 13	CARBOPLATIN	chemotherapy	
+TCGA-50-8459	76	147	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 26	ALIMTA	chemotherapy	
+TCGA-53-7624	924	966	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 31	IRINOTECAN	chemotherapy	
+TCGA-53-A4EZ	132	226	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 7	CISPLATIN	chemotherapy	
+TCGA-55-6968	13	14	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 30	NA	chemotherapy	End date is NA
+TCGA-55-6984	65	66	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 17	CHEMO, MULTI-AGENT, NOS	chemotherapy	End date is NA
+TCGA-55-7914	27	132	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 30	CARBOPLATIN	chemotherapy	
+TCGA-55-7994	56	121	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 28	CARBOPLATIN	chemotherapy	
+TCGA-55-A48X	66	160	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 30	CARBOPLATIN	chemotherapy	
+TCGA-55-A48Y	91	163	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 30	CARBOPLATIN	chemotherapy	
+TCGA-55-A48Z	58	202	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 30	CISPLATIN	chemotherapy	
+TCGA-62-8394	54	124	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	CARBOPLATIN	chemotherapy	
+TCGA-62-A46S	78	198	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 31	TARCEVA	targeted molecular therapy	
+TCGA-62-A46U	71	161	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 30	CARBOPLATIN	chemotherapy	
+TCGA-62-A46Y	74	256	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 30	CISPLATIN	chemotherapy	
+TCGA-62-A471	41	115	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 30	CISPLATIN	chemotherapy	
+TCGA-64-1677	51	121	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 18	GEMCITABINE	chemotherapy	
+TCGA-64-1678	69	132	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 15	CARBOPLATIN	chemotherapy	
+TCGA-64-1679	55	139	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 21	CISPLATIN	chemotherapy	
+TCGA-64-5778	1174	1175	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 3	TARCEVA	chemotherapy	End date is NA
+TCGA-64-5779	94	157	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 2	CISPLATIN	chemotherapy	
+TCGA-64-5781	159	187	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 3	BEVACIZUMAB	chemotherapy	
+TCGA-64-5815	93	103	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 2	GEMZAR	chemotherapy	
+TCGA-67-6215	85	148	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 11	CISPLATIN	chemotherapy	
+TCGA-69-7760	47	110	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 25	CARBOPLATIN	chemotherapy	
+TCGA-69-7761	84	147	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 13	CARBOPLATIN	chemotherapy	
+TCGA-69-7765	93	94	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 27	CARBOPLATIN	chemotherapy	End date is NA
+TCGA-69-7973	63	63	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 9	CISPLATIN	chemotherapy	
+TCGA-69-7974	33	54	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 9	CISPLATIN	chemotherapy	
+TCGA-69-8253	55	56	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 1	CISPLATIN	chemotherapy	End date is NA
+TCGA-69-A59K	72	135	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 18	CISPLATIN	chemotherapy	
+TCGA-73-4659	539	581	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 3	GEMCITABINE	chemotherapy	
+TCGA-73-4666	56	119	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 6	CARBOPLATIN	chemotherapy	
+TCGA-73-4668	369	370	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 6	CARBOPLATIN	chemotherapy	End date is NA
+TCGA-73-4670	33	110	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 15	AVASTIN	chemotherapy	
+TCGA-73-4675	110	482	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 17	CARBOPLATIN	chemotherapy	
+TCGA-73-4676	-74	-40	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 2	CISPLATIN	chemotherapy	
+TCGA-73-7498	47	110	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 31	PEMETREXED	chemotherapy	
+TCGA-73-A9RS	130	186	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 17	CARBOPLATIN	chemotherapy	
+TCGA-78-7145	716	717	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 23	NA	other, specify	End date is NA
+TCGA-78-7150	285	397	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 28	CARBOPLATIN	chemotherapy	
+TCGA-78-7155	253	254	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 21	CARBOPLATIN	chemotherapy	End date is NA
+TCGA-78-7158	54	103	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 15	CARBOPLATIN	chemotherapy	
+TCGA-78-7161	40	132	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 25	CISPLATIN	chemotherapy	
+TCGA-78-7535	60	130	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 19	CISPLATIN	chemotherapy	
+TCGA-78-7539	36	42	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 19	CISPLATIN	chemotherapy	
+TCGA-86-6562	27	253	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 28	VINBLASTINE	chemotherapy	
+TCGA-86-7701	27	207	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 31	ETOPOSIDE	chemotherapy	
+TCGA-86-7711	37	181	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 31	CISPLATIN	chemotherapy	
+TCGA-86-7713	29	182	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 27	ETOPOSIDE	chemotherapy	
+TCGA-86-7954	55	81	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 28	CARBOPLATIN	chemotherapy	
+TCGA-86-7955	27	274	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 12	VEPESID	chemotherapy	
+TCGA-86-8054	65	136	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 12	PACLITAXEL	chemotherapy	
+TCGA-86-8075	201	364	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 25	ETOPOSIDE	chemotherapy	
+TCGA-86-8076	40	193	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 25	ETOPOSIDE	chemotherapy	
+TCGA-86-8278	29	156	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 25	ETOPOSIDE	chemotherapy	
+TCGA-86-8279	28	119	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 25	ETOPOSIDE	chemotherapy	
+TCGA-86-8280	16	129	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 2	CISPLATIN	chemotherapy	
+TCGA-86-8669	854	938	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 2	CISPLATIN	chemotherapy	
+TCGA-86-8671	18	104	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 2	CISPLATIN	chemotherapy	
+TCGA-86-8674	57	81	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 9	VINBLASTINE	chemotherapy	
+TCGA-86-A4JF	31	171	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 6	NA	chemotherapy	
+TCGA-86-A4P8	43	106	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 11	CISPLATIN	chemotherapy	
+TCGA-91-6848	91	154	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	CISPLATIN	chemotherapy	
+TCGA-91-7771	77	156	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 6	CISPLATIN	chemotherapy	
+TCGA-93-A4JN	340	399	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 28	BELINOSTAT	chemotherapy	
+TCGA-93-A4JP	17	101	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 18	CARBOPLATIN	chemotherapy	
+TCGA-95-7562	60	81	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 26	CISPLATIN	chemotherapy	
+TCGA-95-7567	79	149	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 31	CISPLATIN	chemotherapy	
+TCGA-95-A4VK	76	121	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 21	CISPLATIN	chemotherapy	
+TCGA-95-A4VP	63	126	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 22	CARBOPLATIN	chemotherapy	
+TCGA-97-7547	47	75	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 6	CISPLATIN	chemotherapy	
+TCGA-97-7554	49	111	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 21	ALIMTA	chemotherapy	
+TCGA-97-8171	16	17	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 19	TARCEVA	targeted molecular therapy	End date is NA
+TCGA-97-8174	53	102	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 15	VINORELBINE	chemotherapy	
+TCGA-97-8175	472	473	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 19	ALIMTA	chemotherapy	End date is NA
+TCGA-97-8176	77	161	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	CARBOPLATIN	chemotherapy	
+TCGA-97-8177	93	94	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 14	ALIMTA	chemotherapy	End date is NA
+TCGA-97-8547	47	111	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 27	TAXOL	chemotherapy	
+TCGA-99-7458	53	323	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 9	TARCEVA (ERLOTINIB)	chemotherapy	
+TCGA-99-8025	213	286	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 9	GEMZAR	chemotherapy	
+TCGA-99-8033	78	79	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 18	CARBOPLATIN	chemotherapy	End date is NA
+TCGA-J2-8192	105	106	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 6	CISPLATIN	chemotherapy	End date is NA
+TCGA-J2-8194	72	73	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 6	CARBOPLATIN	chemotherapy	End date is NA
+TCGA-L9-A7SV	41	104	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 7	CISPLATIN	chemotherapy	
+TCGA-MP-A4T8	42	72	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 15	NAVELBINE	chemotherapy	
+TCGA-MP-A4T9	34	55	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 15	VINORELBINE	chemotherapy	
+TCGA-MP-A4TC	25	25	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 18	CISPLATIN	chemotherapy	
+TCGA-MP-A4TD	75	165	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 18	CISPLATIN	chemotherapy	
+TCGA-MP-A4TF	48	151	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 18	NAVELBINE	chemotherapy	
+TCGA-NJ-A7XG	30	100	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 25	CISPLATIN	chemotherapy	
+TCGA-18-3412	55	117	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 29	VINORELBINE	chemotherapy	
+TCGA-18-3415	95	179	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 7	NAVELBINE	chemotherapy	
+TCGA-18-3417	73	194	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 7	CISPLATIN	chemotherapy	
+TCGA-18-4083	102	175	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 29	CISPLATIN	chemotherapy	
+TCGA-22-4591	535	535	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 2	GEMZAR	chemotherapy	
+TCGA-22-4595	609	637	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 2	GEMCITABINE	chemotherapy	
+TCGA-22-5472	1594	1778	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 4	DOCETAXEL	chemotherapy	
+TCGA-22-5473	82	143	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 3	CARBOPLATIN	chemotherapy	
+TCGA-22-5479	37	119	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 27	CARBOPLATIN	chemotherapy	
+TCGA-22-5480	1995	2021	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 6	VINORELBINE	chemotherapy	
+TCGA-22-5483	43	111	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 10	TAXOL	chemotherapy	
+TCGA-22-5489	855	855	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 11	GEMCITABINE	chemotherapy	
+TCGA-33-6738	31	122	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 11	GEMCITABINE	chemotherapy	
+TCGA-33-AASI	134	134	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 17	TAXOTERE	chemotherapy	
+TCGA-34-2605	99	99	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 4	DOCETAXEL	chemotherapy	
+TCGA-34-2609	114	149	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 4	CARBOPLATIN	chemotherapy	
+TCGA-34-5239	1811	1812	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 10	TAXOTERE	chemotherapy	End date is NA
+TCGA-34-5240	153	153	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 18	CISPLATIN	chemotherapy	
+TCGA-34-5927	292	385	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 20	CARBOPLATIN	chemotherapy	
+TCGA-34-8454	68	131	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 28	CISPLATIN	chemotherapy	
+TCGA-39-5011	580	621	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 4	CARBOPLATIN	chemotherapy	
+TCGA-39-5021	1903	2016	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 4	CARBOPLATIN	chemotherapy	
+TCGA-39-5024	49	112	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 6	TAXOL	chemotherapy	
+TCGA-39-5029	658	672	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 4	VINORELBINE TARTRATE	chemotherapy	
+TCGA-39-5037	49	63	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 6	GEMZAR (GEMCITABINE)	chemotherapy	
+TCGA-43-2576	54	182	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 19	CISPLATIN	chemotherapy	
+TCGA-43-2581	112	265	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 19	CISPLATIN	chemotherapy	
+TCGA-43-3394	154	215	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 20	CARBOPLATIN	chemotherapy	
+TCGA-43-5668	83	84	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 28	CLINICAL TRIAL	other, specify	End date is NA
+TCGA-43-6143	110	111	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 25	RECMAGE3-AS+AS15 ASCI/PLACEBO VACCINE	other, specify	End date is NA
+TCGA-43-6647	90	153	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 8	TAXOL	chemotherapy	
+TCGA-43-6770	65	66	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 26	RECPRAME+AS15	vaccine	End date is NA
+TCGA-43-8115	102	165	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 30	CARBOPLATIN	chemotherapy	
+TCGA-43-8118	82	82	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 2	DOCETAXEL	chemotherapy	
+TCGA-43-A474	101	172	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 23	CARBOPLATIN	chemotherapy	
+TCGA-43-A475	109	172	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 26	CISPLATIN	chemotherapy	
+TCGA-43-A56V	47	111	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 4	CARBOPLATIN	chemotherapy	
+TCGA-46-6025	77	98	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 13	CISPLATIN	chemotherapy	
+TCGA-46-6026	147	175	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 13	GEMZAR	chemotherapy	
+TCGA-51-4081	51	122	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 9	CISPLATIN	chemotherapy	
+TCGA-56-7823	129	197	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 29	CISPLATIN	chemotherapy	
+TCGA-56-8308	57	203	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 8	PACLITAXEL	chemotherapy	
+TCGA-56-8625	120	140	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 30	CISPLATIN	chemotherapy	
+TCGA-56-8629	66	148	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 28	CISPLATIN	chemotherapy	
+TCGA-56-A4BW	30	109	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 3	CARBOPLATIN	chemotherapy	
+TCGA-56-A4BX	52	144	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 29	CHEMO, NOS	chemotherapy	
+TCGA-56-A62T	45	80	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 21	CARBOPLATIN	chemotherapy	
+TCGA-58-8387	22	129	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	CISPLATIN	chemotherapy	
+TCGA-58-8391	42	159	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	CARBOPLATIN	chemotherapy	
+TCGA-58-A46J	56	134	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 29	CARBOPLATIN	chemotherapy	
+TCGA-58-A46K	85	171	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 29	CARBOPLATIN	chemotherapy	
+TCGA-58-A46L	67	265	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 29	CARBOPLATIN	chemotherapy	
+TCGA-60-2698	180	181	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 26	MITHRAMYCIN	chemotherapy	End date is NA
+TCGA-60-2707	587	594	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 16	GEMCITABINE	chemotherapy	
+TCGA-60-2708	151	231	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 16	CARBOPLATIN	chemotherapy	
+TCGA-60-2710	148	169	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 16	CISPLATIN	chemotherapy	
+TCGA-60-2713	1611	1731	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 16	GEMZAR	chemotherapy	
+TCGA-60-2714	13	73	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 15	TAXOL	chemotherapy	
+TCGA-60-2715	546	633	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 9	GEMCITABINE	chemotherapy	
+TCGA-60-2716	67	150	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 19	CARBOPLATIN	chemotherapy	
+TCGA-60-2720	119	138	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 19	CARBOPLATIN	chemotherapy	
+TCGA-60-2722	119	272	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 20	CARBOPLATIN	chemotherapy	
+TCGA-60-2724	111	112	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 20	NAVELBINE	chemotherapy	End date is NA
+TCGA-63-A5MB	85	205	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 24	CISPLATIN	chemotherapy	
+TCGA-63-A5MI	56	141	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 24	VINORELBINE	chemotherapy	
+TCGA-63-A5MJ	67	160	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 24	VINORELBINE	chemotherapy	
+TCGA-63-A5ML	84	203	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 24	VINORELBINE	chemotherapy	
+TCGA-63-A5MM	36	58	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 25	VINORELBINE	chemotherapy	
+TCGA-63-A5MP	127	203	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 24	CISPLATIN	chemotherapy	
+TCGA-63-A5MT	124	187	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 24	CISPLATIN	chemotherapy	
+TCGA-63-A5MU	105	196	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 25	CISPLATIN	chemotherapy	
+TCGA-63-A5MV	91	154	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 25	CISPLATIN	chemotherapy	
+TCGA-66-2757	943	1035	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	GEMCITABINE	chemotherapy	
+TCGA-66-2758	89	181	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	CISPLATIN	chemotherapy	
+TCGA-66-2759	92	214	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	CARBOPLATIN	chemotherapy	
+TCGA-66-2771	61	153	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	CARBOPLATIN	chemotherapy	
+TCGA-66-2778	184	244	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	CISPLATIN	chemotherapy	
+TCGA-66-2783	90	151	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	CISPLATIN	chemotherapy	
+TCGA-66-2792	91	214	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	CARBOPLATIN	chemotherapy	
+TCGA-68-8251	54	55	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 24	CARBOPLATIN	chemotherapy	End date is NA
+TCGA-85-6560	19	146	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 28	CISPLATIN	chemotherapy	
+TCGA-85-6561	27	141	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 28	CARBOPLATIN	chemotherapy	
+TCGA-85-6798	20	111	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 30	ETOPOSIDE	chemotherapy	
+TCGA-85-8276	17	144	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 15	CISPLATIN	chemotherapy	
+TCGA-85-8351	22	139	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 2	CISPLATIN	chemotherapy	
+TCGA-85-8664	446	495	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 30	CARBOPLATIN	chemotherapy	
+TCGA-85-A4CN	21	22	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 26	ERLOTINIB	chemotherapy	End date is NA
+TCGA-85-A4JB	20	447	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 12	NA	chemotherapy	
+TCGA-85-A4JC	39	52	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 10	NA	chemotherapy	
+TCGA-85-A50Z	35	42	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 8	VEPESID	chemotherapy	
+TCGA-90-6837	148	176	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 8	CISPLATIN	chemotherapy	
+TCGA-90-A4EE	121	184	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 4	CISPLATIN	chemotherapy	
+TCGA-90-A59Q	75	117	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 10	CISPLATIN	chemotherapy	
+TCGA-92-8063	52	60	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 18	TAXOL	chemotherapy	
+TCGA-92-8064	106	183	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 1	CISPLATIN	chemotherapy	
+TCGA-94-7033	59	87	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: NA	CISPLATIN	chemotherapy	
+TCGA-94-8491	60	152	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 9	NA	chemotherapy	
+TCGA-94-A5I6	122	164	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 8	CISPLATIN	chemotherapy	
+TCGA-96-A4JK	47	139	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 7	GEMCITABINE	chemotherapy	
+TCGA-96-A4JL	52	136	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 7	GEMZAR	chemotherapy	
+TCGA-98-A53I	47	138	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 23	NAVELBINE	chemotherapy	
+TCGA-J1-A4AH	68	131	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 27	CISPLATIN	chemotherapy	
+TCGA-L3-A524	197	350	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 22	CISPLATIN	chemotherapy	
+TCGA-LA-A7SW	65	65	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 8	CISPLATIN	chemotherapy	
+TCGA-60-2697	14	47	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 19	CISPLATINUM	chemotherapy	
+TCGA-60-2704	1073	1093	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 6	CARBOPLATIN	chemotherapy	
+TCGA-33-4587	93	154	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 8	ADRIAMYCIN	chemotherapy	
+TCGA-39-5040	24	24	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 5	DOCETAXEL	chemotherapy	
+TCGA-43-5670	87	164	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 27	TAXOTERE	chemotherapy	
+TCGA-56-7579	88	215	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 29	CARBOPLATIN	chemotherapy	
+TCGA-85-7697	18	134	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 1	CISPLATIN	chemotherapy	
+TCGA-85-7698	654	738	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 1	ETOPOSIDE	chemotherapy	
+TCGA-85-7699	19	112	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 1	CISPLATIN	chemotherapy	
+TCGA-56-7730	117	148	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 28	NA	chemotherapy	
+TCGA-68-7756	78	139	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 24	CARBOPLATIN	chemotherapy	
+TCGA-52-7812	529	638	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 31	PACLITAXEL	chemotherapy	
+TCGA-56-7822	311	332	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 3	ELOXATIN	chemotherapy	
+TCGA-MF-A522	202	203	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 7	GEMZAR	chemotherapy	End date is NA
+TCGA-NC-A5HE	51	142	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 16	CISPLATIN	chemotherapy	
+TCGA-NC-A5HG	37	107	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 17	CISPLATIN	chemotherapy	
+TCGA-NC-A5HI	91	169	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 17	CISPLATIN	chemotherapy	
+TCGA-NC-A5HJ	411	412	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 17	CISPLATIN	chemotherapy	
+TCGA-NC-A5HK	37	128	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 17	CISPLATIN	chemotherapy	
+TCGA-NC-A5HO	45	108	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 17	CARBOPLATIN	chemotherapy	
+TCGA-NC-A5HP	52	113	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 17	CISPLATIN	chemotherapy	
+TCGA-NC-A5HQ	57	133	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 17	CARBOPLATIN	chemotherapy	
+TCGA-NC-A5HR	49	138	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 19	CARBOPLATIN	chemotherapy	
+TCGA-NC-A5HT	246	288	TREATMENT	Medical Therapy	1-Drug_Day_of_Form_Completion: 19	CARBOPLATIN	chemotherapy	
+TCGA-05-4424	153	154	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 1	NA	NA	End date is NA
+TCGA-38-4630	754	772	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 16	EXTERNAL BEAM	palliative	
+TCGA-38-4632	35	70	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 12	EXTERNAL	NA	
+TCGA-38-7271	633	665	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 10	EXTERNAL BEAM	palliative	
+TCGA-44-2668	587	587	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 22	OTHER: SPECIFY IN NOTES	palliative	
+TCGA-44-7669	474	474	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 16	OTHER: SPECIFY IN NOTES	progression	
+TCGA-55-8096	641	679	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 30	EXTERNAL	NA	
+TCGA-55-A48Z	539	567	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 30	EXTERNAL	NA	
+TCGA-64-5779	201	241	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 17	EXTERNAL BEAM	adjuvant	
+TCGA-73-4659	337	337	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 3	OTHER: SPECIFY IN NOTES	progression	
+TCGA-78-7150	531	546	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 28	EXTERNAL BEAM	recurrence	
+TCGA-78-7220	734	740	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 8	EXTERNAL BEAM	recurrence	
+TCGA-86-7955	1027	1057	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 12	EXTERNAL	NA	
+TCGA-91-6847	842	842	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 5	EXTERNAL	NA	
+TCGA-97-8176	91	105	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 5	EXTERNAL	NA	
+TCGA-21-5787	119	125	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 3	EXTERNAL BEAM	palliative	
+TCGA-77-6842	405	405	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 15	EXTERNAL BEAM	progression	
+TCGA-LA-A7SW	337	350	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 31	EXTERNAL	NA	
+TCGA-60-2697	325	339	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 19	EXTERNAL BEAM	progression	
+TCGA-O2-A52S	173	272	TREATMENT	Radiation Therapy	2-Radiation_Day_of_Form_Completion: 10	NA	NA	
+TCGA-05-4424	699	700	TREATMENT	Radiation Therapy	3-Radiation_Day_of_Form_Completion: 1	NA	NA	End date is NA
+TCGA-38-4630	848	869	TREATMENT	Radiation Therapy	3-Radiation_Day_of_Form_Completion: 16	EXTERNAL BEAM	palliative	
+TCGA-38-7271	564	564	TREATMENT	Radiation Therapy	3-Radiation_Day_of_Form_Completion: 10	OTHER: SPECIFY IN NOTES	palliative	
+TCGA-44-2668	586	589	TREATMENT	Radiation Therapy	3-Radiation_Day_of_Form_Completion: 22	OTHER: SPECIFY IN NOTES	palliative	
+TCGA-64-5779	852	864	TREATMENT	Radiation Therapy	3-Radiation_Day_of_Form_Completion: 17	EXTERNAL BEAM	recurrence	
+TCGA-97-8176	51	64	TREATMENT	Radiation Therapy	3-Radiation_Day_of_Form_Completion: 11	EXTERNAL	NA	
+TCGA-44-2668	586	587	TREATMENT	Radiation Therapy	4-Radiation_Day_of_Form_Completion: 22	OTHER: SPECIFY IN NOTES	palliative	
+TCGA-05-4382	365	393	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 29	EXTERNAL	NA	
+TCGA-05-4384	183	214	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 29	EXTERNAL	NA	
+TCGA-05-4424	30	30	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 1	EXTERNAL	NA	
+TCGA-05-5428	215	274	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 30	EXTERNAL	NA	
+TCGA-38-4630	554	573	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 16	EXTERNAL BEAM	palliative	
+TCGA-38-4632	955	955	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 13	EXTERNAL BEAM	palliative	
+TCGA-38-7271	329	379	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 10	EXTERNAL BEAM	recurrence	
+TCGA-44-2662	277	316	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 21	EXTERNAL BEAM	progression	
+TCGA-44-2668	468	488	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 22	EXTERNAL BEAM	palliative	
+TCGA-44-3918	686	697	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 8	EXTERNAL BEAM	palliative	
+TCGA-44-4112	654	675	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 16	EXTERNAL BEAM	progression	
+TCGA-44-5643	129	168	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 14	OTHER: SPECIFY IN NOTES	adjuvant	
+TCGA-44-6774	193	228	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 3	EXTERNAL BEAM	adjuvant	
+TCGA-44-6777	306	356	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 30	EXTERNAL BEAM	adjuvant	
+TCGA-44-7669	526	532	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 16	EXTERNAL BEAM	palliative	
+TCGA-49-4507	46	95	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 2	EXTERNAL BEAM	adjuvant	
+TCGA-49-AAR4	118	153	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 17	EXTERNAL	NA	
+TCGA-4B-A93V	252	267	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 12	EXTERNAL	NA	
+TCGA-50-5045	63	64	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 15	OTHER: SPECIFY IN NOTES	adjuvant	End date is NA
+TCGA-50-5049	0	0	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 15	IMPLANTS	adjuvant	
+TCGA-50-5051	71	124	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 15	EXTERNAL BEAM	adjuvant	
+TCGA-50-5072	152	182	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 16	EXTERNAL BEAM	adjuvant	
+TCGA-50-5930	177	177	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 16	EXTERNAL BEAM	adjuvant	
+TCGA-50-5933	171	215	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 17	EXTERNAL BEAM	adjuvant	
+TCGA-50-5935	0	0	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 17	IMPLANTS	adjuvant	
+TCGA-50-5942	53	53	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 17	IMPLANTS	adjuvant	
+TCGA-50-6592	39	39	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 4	INTERNAL	NA	
+TCGA-50-6593	173	210	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 13	EXTERNAL	NA	
+TCGA-50-6594	317	318	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 13	EXTERNAL	NA	
+TCGA-50-6595	123	161	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 13	EXTERNAL	NA	
+TCGA-50-6673	0	0	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 29	INTERNAL	NA	
+TCGA-50-8460	49	49	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 26	INTERNAL	NA	
+TCGA-53-7624	613	624	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 31	EXTERNAL	NA	
+TCGA-55-6968	13	57	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 30	EXTERNAL	NA	
+TCGA-55-7574	123	162	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 11	EXTERNAL BEAM	adjuvant	
+TCGA-55-7911	524	536	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 20	EXTERNAL	NA	
+TCGA-55-8096	579	600	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 30	EXTERNAL	NA	
+TCGA-55-8299	304	320	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 28	EXTERNAL	NA	
+TCGA-55-A48Z	154	195	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 30	EXTERNAL	NA	
+TCGA-55-A4DF	503	537	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 30	EXTERNAL	NA	
+TCGA-62-8402	28	73	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 19	EXTERNAL	NA	
+TCGA-62-A46Y	227	256	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 31	EXTERNAL	NA	
+TCGA-64-1677	417	448	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 18	EXTERNAL BEAM	recurrence	
+TCGA-69-7974	141	142	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 9	EXTERNAL BEAM	adjuvant	End date is NA
+TCGA-73-4659	516	529	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 3	EXTERNAL BEAM	palliative	
+TCGA-73-4666	70	70	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 10	OTHER: SPECIFY IN NOTES	adjuvant	
+TCGA-73-4668	299	299	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 6	OTHER: SPECIFY IN NOTES	progression	
+TCGA-73-A9RS	53	53	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 17	INTERNAL	NA	
+TCGA-78-7145	644	644	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 5	EXTERNAL BEAM	palliative	
+TCGA-78-7150	185	189	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 28	EXTERNAL BEAM	palliative	
+TCGA-78-7152	1154	1155	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 29	EXTERNAL BEAM	palliative	End date is NA
+TCGA-78-7220	60	96	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 8	EXTERNAL BEAM	adjuvant	
+TCGA-78-7536	55	90	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 19	EXTERNAL BEAM	adjuvant	
+TCGA-86-7701	917	929	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 9	EXTERNAL	NA	
+TCGA-86-7955	114	190	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 12	EXTERNAL	NA	
+TCGA-86-8279	139	208	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 25	EXTERNAL	NA	
+TCGA-86-A4P8	145	186	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 11	EXTERNAL	NA	
+TCGA-91-6830	60	60	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 4	EXTERNAL	NA	
+TCGA-91-6847	772	781	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 5	EXTERNAL	NA	
+TCGA-95-A4VK	202	202	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 21	EXTERNAL	NA	
+TCGA-97-8175	427	441	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 19	EXTERNAL	NA	
+TCGA-97-8176	91	105	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 5	EXTERNAL	NA	
+TCGA-J2-8194	240	271	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 7	NA	NA	
+TCGA-L9-A8F4	64	65	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 14	INTERNAL	NA	End date is NA
+TCGA-MP-A4T9	132	166	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 15	EXTERNAL	NA	
+TCGA-21-5787	111	130	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 3	EXTERNAL BEAM	adjuvant	
+TCGA-22-1000	284	302	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 12	EXTERNAL BEAM	palliative	
+TCGA-22-4595	36	77	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 2	EXTERNAL BEAM	adjuvant	
+TCGA-22-4604	334	350	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 2	EXTERNAL BEAM	palliative	
+TCGA-22-5472	1868	1929	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 4	OTHER: SPECIFY IN NOTES	other: specify in notes	
+TCGA-22-5480	1787	1799	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 6	EXTERNAL BEAM	palliative	
+TCGA-33-AASI	195	195	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 17	EXTERNAL	NA	
+TCGA-34-2605	420	456	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 4	EXTERNAL BEAM	recurrence	
+TCGA-34-2609	632	659	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 4	EXTERNAL BEAM	progression	
+TCGA-39-5011	580	633	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 4	EXTERNAL BEAM	recurrence	
+TCGA-39-5019	422	422	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 11	OTHER: SPECIFY IN NOTES	recurrence	
+TCGA-39-5029	564	590	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 4	EXTERNAL BEAM	palliative	
+TCGA-43-2576	69	111	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 19	EXTERNAL BEAM	adjuvant	
+TCGA-43-3394	588	636	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 10	EXTERNAL BEAM	recurrence	
+TCGA-43-A475	35	77	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 26	EXTERNAL	NA	
+TCGA-46-6026	63	109	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 9	EXTERNAL BEAM	adjuvant	
+TCGA-56-8308	59	98	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 8	EXTERNAL	NA	
+TCGA-56-A4BY	76	118	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 30	EXTERNAL	NA	
+TCGA-56-A62T	39	84	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 21	EXTERNAL	NA	
+TCGA-58-8391	133	180	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 23	EXTERNAL	NA	
+TCGA-58-A46K	182	223	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 8	EXTERNAL	NA	
+TCGA-60-2698	175	181	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 26	EXTERNAL BEAM	progression	
+TCGA-60-2715	818	845	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 9	EXTERNAL BEAM	palliative	
+TCGA-63-A5MN	52	94	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 25	EXTERNAL	NA	
+TCGA-63-A5MP	266	305	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 24	EXTERNAL	NA	
+TCGA-66-2757	788	789	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 20	EXTERNAL	NA	
+TCGA-66-2759	0	0	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 12	EXTERNAL	NA	
+TCGA-66-2778	143	145	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 12	EXTERNAL	NA	
+TCGA-66-2783	0	0	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 20	EXTERNAL	NA	
+TCGA-66-2794	606	607	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 20	EXTERNAL	NA	
+TCGA-77-6842	200	209	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 15	EXTERNAL BEAM	progression	
+TCGA-85-6561	172	200	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 28	EXTERNAL BEAM	adjuvant	
+TCGA-85-A4CN	40	133	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 26	NA	NA	
+TCGA-92-8063	42	95	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 17	EXTERNAL BEAM	adjuvant	
+TCGA-LA-A7SW	243	254	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 31	EXTERNAL	NA	
+TCGA-60-2697	208	229	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 19	EXTERNAL BEAM	recurrence	
+TCGA-60-2704	1077	1077	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 6	NA	recurrence	
+TCGA-22-4605	69	99	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 16	EXTERNAL BEAM	adjuvant	
+TCGA-39-5040	129	164	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 5	EXTERNAL BEAM	adjuvant	
+TCGA-77-7139	52	90	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 10	EXTERNAL BEAM	adjuvant	
+TCGA-77-7140	266	272	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 9	EXTERNAL BEAM	recurrence	
+TCGA-56-7579	93	125	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 29	EXTERNAL	NA	
+TCGA-56-7730	117	148	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 28	EXTERNAL	NA	
+TCGA-52-7812	334	357	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 30	EXTERNAL	NA	
+TCGA-56-7822	356	413	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 3	EXTERNAL	NA	
+TCGA-MF-A522	175	189	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 7	EXTERNAL	NA	
+TCGA-NC-A5HF	134	134	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 16	EXTERNAL	NA	
+TCGA-NC-A5HG	125	163	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 17	EXTERNAL	NA	
+TCGA-NC-A5HP	485	485	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 17	INTERNAL	NA	
+TCGA-NC-A5HQ	158	202	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 17	EXTERNAL	NA	
+TCGA-NC-A5HT	265	292	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 19	EXTERNAL	NA	
+TCGA-NK-A5D1	160	161	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 13	NA	NA	End date is NA
+TCGA-O2-A52S	0	173	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 10	NA	NA	
+TCGA-O2-A52V	0	267	TREATMENT	Radiation Therapy	1-Radiation_Day_of_Form_Completion: 10	NA	NA	
