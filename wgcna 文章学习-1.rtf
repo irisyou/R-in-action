@@ -1,0 +1,67 @@
+{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf400
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset134 PingFangSC-Regular;\f2\fnil\fcharset0 HelveticaNeue;
+\f3\fnil\fcharset134 .PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red251\green2\blue255;\red20\green20\blue20;\red255\green255\blue255;
+\red38\green38\blue38;}
+{\*\expandedcolortbl;;\cssrgb\c100000\c25279\c100000;\cssrgb\c10196\c10196\c10196;\cssrgb\c100000\c100000\c100000;
+\cssrgb\c20000\c20000\c20000;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\sl288\slmult1\pardirnatural\partightenfactor0
+
+\f0\fs36 \cf0 Co-expressed miRNAs in gastric adenocarcinoma
+\fs24 \
+material
+\f1 \'a3\'ba
+\f0 \
+\cf2 1 samples and processing\cf0 \
+the Cancer Genome Atlas (TCGA) project (//tcga-data.nci.nih.gov/)  miRNAseq  1046mirna         \
+295 cancer samples\
+Array Express database (www.ebi.ac.uk/arrayexpress) under the accession number E-TABM-341\
+microarray 315
+\f1 mirna 353samples(184cancer and 169normal)\
+
+\b\fs28 Quantile normalization, 
+\b0\fs24  then read counts\
+The rnaseq data read counts transformed using 
+\b\fs28 variance-stabilizing transformation.(package DESeq2)\
+TCGA batch effect (
+\b0\fs24 using The COMBAT method implemented in the SVA package).\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\b\fs28 \cf0 \
+\
+Quantile normalization\
+{\field{\*\fldinst{HYPERLINK "https://en.wikipedia.org/wiki/Quantile_normalization"}}{\fldrslt https://en.wikipedia.org/wiki/Quantile_normalization}}\
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f2\b0\fs30 \cf3 \cb4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 quantile 
+\f3 \'b7\'bd\'b7\'a8\'b1\'be\'d6\'ca\'c9\'cf\'ca\'c7\'bc\'d9\'c9\'e8\'cb\'f9\'d3\'d0\'d1\'f9\'b1\'be\'b5\'c4\'b6\'c1\'d6\'b5\'b7\'d6\'b2\'bc\'ca\'f4\'d3\'da\'cd\'ac\'d2\'bb\'b7\'d6\'b2\'bc\'a3\'ac\'d2\'d4\'ca\'fd\'d6\'b5\'b7\'bd\'b7\'a8\'b9\'c0\'bc\'c6\'b3\'f6\'be\'ad\'d1\'e9\'b7\'d6\'b2\'bc\'ba\'f3\'a3\'ac\'d4\'d9\'d2\'d4\'b0\'d9\'b7\'d6\'ce\'bb\'ca\'fd\'bd\'ab\'b9\'c0\'bc\'c6\'b3\'f6\'b5\'c4\'be\'ad\'d1\'e9\'b7\'d6\'b2\'bc\'d3\'b3\'c9\'e4\'bb\'d8\'c3\'bf\'d2\'bb\'b8\'f6\'d1\'f9\'b1\'be\'a1\'a3\
+{\field{\*\fldinst{HYPERLINK "https://www.zhihu.com/question/43717556"}}{\fldrslt https://www.zhihu.com/question/43717556}}\
+\'d5\'eb\'b6\'d4\'b7\'d6\'ce\'bb\'ca\'fd\'b1\'ea\'d7\'bc\'bb\'af\'a3\'ac
+\f2 R
+\f3 \'d6\'d0\'d3\'d0\'b6\'e0\'b8\'f6\'b0\'fc\'bd\'f8\'d0\'d0\'b4\'a6\'c0\'ed
+\f2 \
+1
+\f3 \'a3\'ba
+\f2 affy\
+2: preprocessCore\
+\
+\
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\sl288\slmult1\pardirnatural\partightenfactor0
+
+\f1\b\fs28 \cf0 \cb1 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 variance-stabilizing transformation\
+{\field{\*\fldinst{HYPERLINK "https://en.wikipedia.org/wiki/Variance-stabilizing_transformation"}}{\fldrslt https://en.wikipedia.org/wiki/Variance-stabilizing_transformation}}\
+\'d3\'c3\'d3\'da\'b6\'e0\'ce\'ac\'ca\'fd\'be\'dd\'cc\'bd\'cb\'f7\'d0\'d4\'b7\'d6\'ce\'f6\'b5\'c4\'d0\'ed\'b6\'e0\'b3\'a3\'d3\'c3\'cd\'b3\'bc\'c6\'b7\'bd\'b7\'a8\'a3\'ac\'d3\'c8\'c6\'e4\'ca\'c7\'be\'db\'c0\'e0\'ba\'cd\'c5\'c5\'d0\'f2\'b7\'bd\'b7\'a8\'a3\'a8\'c0\'fd\'c8\'e7\'a3\'ac\'d6\'f7\'b3\'c9\'b7\'d6\'b7\'d6\'ce\'f6\'b5\'c8\'a3\'a9\'a3\'ac\'b6\'d4\'d3\'da\'a3\'a8\'d6\'c1\'c9\'d9\'bd\'fc\'cb\'c6\'b5\'c4\'a3\'a9\'cd\'ac\'b7\'bd\'b2\'ee\'ca\'fd\'be\'dd\'d7\'ee\'d3\'d0\'d0\'a7;\'d5\'e2\'d2\'e2\'ce\'b6\'d7\'c5\'bf\'c9\'b9\'db\'b2\'ec\'c1\'bf\'a3\'a8\'bc\'b4\'a3\'ac\'b4\'cb\'b4\'a6\'a3\'ac\'bb\'f9\'d2\'f2\'b5\'c4\'b1\'ed\'b4\'ef\'c7\'bf\'b6\'c8\'a3\'a9\'b2\'bb\'d2\'c0\'c0\'b5\'d3\'da\'c6\'bd\'be\'f9\'d6\'b5\'a1\'a3\'c8\'bb\'b6\'f8\'a3\'ac\'d4\'daRNA-Seq\'ca\'fd\'be\'dd\'d6\'d0\'a3\'ac\'b7\'bd\'b2\'ee\'cb\'e6\'c6\'bd\'be\'f9\'d6\'b5\'d4\'f6\'bc\'d3\'a1\'a3\
+\'b5\'b1\'c4\'fa\'b6\'d4\'bc\'c6\'ca\'fd\'ca\'fd\'be\'dd\'bd\'f8\'d0\'d0\'cf\'c2\'d3\'ce\'b7\'d6\'ce\'f6\'ca\'b1\'a3\'ac\'c4\'fa\'d3\'a6\'b8\'c3\'b8\'fc\'cf\'b2\'bb\'b6\'ca\'b9\'d3\'c3\'d5\'e2\'d0\'a9\'a3\'ac\'d5\'e2\'d0\'a9\'ca\'fd\'be\'dd\'b2\'bb\'c9\'e6\'bc\'b0\'ca\'b9\'d3\'c3\'ce\'aa\'bc\'c6\'ca\'fd\'ca\'fd\'be\'dd\'bf\'aa\'b7\'a2\'b5\'c4\'cd\'b3\'bc\'c6\'b7\'bd\'b7\'a8\'b2\'e2\'ca\'d4\'b2\'ee\'d2\'ec\'b1\'ed\'b4\'ef\'ca\'bd\'a1\'a3\'d5\'e2\'d0\'a9\'b3\'a1\'be\'b0\'b0\'fc\'c0\'a8\'b6\'d4\'b1\'ed\'b4\'ef\'ca\'fd\'be\'dd\'bd\'f8\'d0\'d0\'be\'db\'c0\'e0\'bb\'f2PCA\'b4\'a6\'c0\'ed\'bb\'f2\'ca\'b9\'d3\'c3\'ca\'fd\'be\'dd\'d7\'f7\'ce\'aa\'c1\'ed\'d2\'bb\'d6\'d6\'bb\'fa\'c6\'f7\'d1\'a7\'cf\'b0\'cb\'e3\'b7\'a8\'b5\'c4\'ca\'e4\'c8\'eb\'a1\'a3\
+\
+\
+TCGA batch effect\
+{\field{\*\fldinst{HYPERLINK "https://shengxin.ren/article/14"}}{\fldrslt https://shengxin.ren/article/14}}\
+\pard\pardeftab720\sl320\partightenfactor0
+
+\b0 \cf5 \cb4 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec5 \'b6\'d4\'d1\'f9\'b1\'be\'bc\'d3\'b1\'ea\'c7\'a9\'a3\'ac\'c8\'bb\'ba\'f3\'cd\'a8\'b9\'fd\'be\'db\'c0\'e0\'bf\'b4\'ca\'c7\'b7\'f1\'b4\'e6\'d4\'da\'c4\'b3\'d6\'d6\'d0\'a7\'d3\'a6\'a3\'ac\'c8\'bb\'ba\'f3\'c8\'b7\'c8\'cf\'c4\'c7\'d6\'d6\'d2\'f2\'cb\'d8\'d7\'ee\'ce\'aa\'cf\'e0\'b9\'d8\'a3\'ac\'c8\'bb\'ba\'f3\'c0\'fb\'d3\'c3\'cd\'b3\'bc\'c6\'c4\'a3\'d0\'cd\'bd\'f8\'d0\'d0\'b9\'fd\'c2\'cb\'a3\'ac\'c8\'bb\'ba\'f3\'d4\'d9\'d1\'e9\'d6\'a4\'cf\'c2\'a3\'ac\'ca\'c7\'b7\'f1\'bb\'b9\'d3\'d0
+\f2 batch effect
+\f1 \'a1\'a3\
+}
